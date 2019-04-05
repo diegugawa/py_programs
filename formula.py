@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 # This program converts Celsius to Fahrenheit or viceversa
+# by Diego Saavedra-Kloss
 
 from os import system, name
 
