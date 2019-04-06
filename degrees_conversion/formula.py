@@ -15,7 +15,7 @@ def formula():
         f_2_c()
     else:
         _=system('clear')
-        print('Typing "{}"" is incorrect. Please type either "c" or "f".'.format(wdyw))
+        print('Typing "{}" is incorrect. Please type either "c" or "f".'.format(wdyw))
         formula()
 
 def c_2_f():
