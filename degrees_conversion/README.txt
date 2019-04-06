@@ -1,5 +1,5 @@
 This program converts Celsius degrees to Fahrenheit or viceversa.
-I developed it to create a simple website when teaching a few folks how to create their own sites.
-This is the typical basic program that you can create on your own when you are learning to code, 
-but with some medium level changes to avoid errors exiting the programs when you have pressed the wrong
-keystrokes.
+I developed it to teach a few folks how to create their own websites.
+While this is the typical program that you could create when you are learning how to code,
+it can be consider on a medium level because it's elegant (what I have been told :) ), and
+avoid exiting errors in case someone have pressed the wrong keystrokes.
